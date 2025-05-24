@@ -1,6 +1,5 @@
-function greet(name) { 
-  console.log(Hello,  + name + !);
+function greet(name,place) { 
+  console.log(name + " is " + place));
 }
 
-greet(HBTN);
-greet(Phyton fun); 
+greet('HBTN', 'Python fun');
